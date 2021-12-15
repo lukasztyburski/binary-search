@@ -1,3 +1,4 @@
 # binary-search
-*Task frome exercism.org/*
+*Task from exercism.org*
+
 Implemenation of a binary search algorithm.
